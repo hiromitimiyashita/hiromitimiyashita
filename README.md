@@ -1,7 +1,11 @@
-## Olá! Eu sou Alex Hiromiti Alves Miyashita.
+## Olá! Sou Alex Hiromiti Alves Miyashita, desenvolvedor focado em soluções para negócios.
 
-- 👋 Eu sou desenvolvedor front-end e back-end.
-- 🌱 Estou estudando Typescript, Node e React.
+Desde os 20 anos, sou fascinado por como a tecnologia pode simplificar processos complexos. Essa paixão me levou a me especializar em sistemas de controle de estoque e vendas, ajudando empresas a terem uma visão clara e organizada de suas operações.
+
+Desenvolvo tanto a plataforma web, para uma gestão completa no escritório, quanto o aplicativo mobile, para dar agilidade à equipe de campo. Para mim, não se trata apenas de código, mas de construir a ferramenta que vai facilitar o seu dia a dia e impulsionar suas vendas.
+
+Se você busca um sistema que realmente entenda as suas necessidades, estou aqui para ajudar a construir.
+
 <!-- - 📫 Atualmente estou no Japão. Se houver interesse de entrar em contato comigo, envie uma mensagem ao meu e-mail pessoal, hiromiti1982@gmail.com. -->
 
 <!---
